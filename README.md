@@ -8,6 +8,8 @@
 node.jsをインストール後に以下のコマンドを実行
 > npm install -g create-react-app
 > create-react-app react-app
+type scriptで利用する場合は以下のコマンドを使う
+> create-react-app react-app --template typescript
 ymlファイルの設定はプロジェクト名が"react-app"になっています。
 "react-app"以外のプロジェクト名を利用する際には、ymlファイルを編集してください。
 
