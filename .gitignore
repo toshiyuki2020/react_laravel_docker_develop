@@ -1,0 +1,4 @@
+docker/db/*
+
+# dbディレクトリ自体は空のまま保持
+!docker/db/.gitkeep
